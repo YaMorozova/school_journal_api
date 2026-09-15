@@ -38,7 +38,7 @@ Web API для журнала оценок.
 
 ### ER-диаграмма
 
-![Схема БД](school_db.jpeg)
+![Схема БД](school_db.jpg)
 
 ### Таблицы
 
@@ -100,7 +100,7 @@ Web API для журнала оценок.
 
 ```bash
 git clone https://github.com/YaMorozova/school_journal_api.git
-cd school_journal__api
+cd school_journal_api
 dotnet restore
 dotnet run
 ```
@@ -109,7 +109,7 @@ dotnet run
 
 ### Через Visual Studio
 
-1. Открыть файл `SchoolJournal.Api.sln`.
+1. Открыть файл `SchoolJournal_Api.sln`.
 3. Нажать **F5**.
 
 Swagger откроется автоматически.
